@@ -47,6 +47,7 @@ const Add = () => {
     }
   return (
     <div>
+        <NavBar/>
         
         <div className="container">
             <div className="row">
